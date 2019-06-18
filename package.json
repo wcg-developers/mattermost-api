@@ -1,0 +1,15 @@
+{
+  "name": "mattermost-api",
+  "version": "1.0.0",
+  "description": "Mattermost api library for node.js. Get notification when error or message arrive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "request": "2.88.0"
+  },
+  "keywords": ["mattermost", "message", "hubot mattermost", "bot", "error message"],
+  "author": "WebCodeGenie",
+  "license": "MIT"
+}
