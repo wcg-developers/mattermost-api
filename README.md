@@ -8,6 +8,8 @@ V1.0.0
 
 ## Use
 
+Download this library and run `npm install`
+
 var Mattermost = require("mattermost-api");
 
 const  express  =  require('express');
