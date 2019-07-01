@@ -1,6 +1,6 @@
 {
   "name": "mattermost-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mattermost api library for node.js. Get notification when error or message arrive.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,11 @@
   "dependencies": {
     "request": "2.88.0"
   },
-  "keywords": ["mattermost", "message", "hubot mattermost", "bot", "error message"],
+  "keywords": ["mattermost", "message", "hubot mattermost", "bot", "error message","message","send file"],
   "author": "WebCodeGenie",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wcg-developers/mattermost-api.git"
+  }
 }
