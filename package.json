@@ -1,6 +1,6 @@
 {
   "name": "mattermost-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mattermost api library for node.js. Get notification when error or message arrive.",
   "main": "index.js",
   "scripts": {
